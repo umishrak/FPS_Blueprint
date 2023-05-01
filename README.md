@@ -6,3 +6,7 @@ This project is part if Gamedev.tv "Unreal Engine 5 Blueprints: First Person Sho
 
 The Gun Used in this project is a proprietry of "SideArm Studios" that has been used in the project by Gamedev.tv.
 To use this Gun you would need to buy the license from them from the UE Marketplace.
+
+Known Issues:
+a) Warmup period timer not ticking
+b) Level Ligthning not building - cause the level to go dark
